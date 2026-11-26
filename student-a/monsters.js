@@ -25,9 +25,9 @@ registerMonsters("a", [                 // ส่งมอนสเตอร์�
   // -------------------------------------------------------------------
   {
     id: "a1",                           // รหัสประจำตัว ลงท้ายด้วย 1 = ลงสนามเป็นลำดับที่ 1 (ห้ามแก้)
-    name: "เซฟคุง",                     // ชื่อที่แสดงในสนาม
+    name: "อ้วนไฟเทพซ่า",                     // ชื่อที่แสดงในสนาม
     description: "ชอบนอนอ้วน แต่ตัวร้อนเหมือนไฟ", // คำอธิบายนิสัยหรือเรื่องราวสั้น ๆ
-    image: "images/monster-1.svg",      // รูปในโฟลเดอร์ student-a/images/ (.png .jpg .svg .webp)
+    image: "images/ccc.png",      // รูปในโฟลเดอร์ student-a/images/ (.png .jpg .svg .webp)
     element: "fire",                    // ธาตุ: wind ลม | rock หิน | plant พืช | fire ไฟ | water น้ำ | ice น้ำแข็ง | lightning สายฟ้า
     skill: "poison",                    // สกิลทุก 3 เทิร์นของตัวเอง: strike โจมตีหนัก | critStrike โจมตีจุดตาย | poison พิษ | heal ฟื้นพลัง | shield สร้างโล่
     trait: "thorns",                    // ติดตัว: none ไม่มี (HP+ดาเมจ +5%) | thorns หนามสะท้อน | regeneration ฟื้นตัว | berserk ฮึดสู้ | hardCrit คริรุนแรง
